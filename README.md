@@ -1,4 +1,0 @@
-SampleProject
-=============
-
-xxxxxxxxxxxxxxxxxxx
