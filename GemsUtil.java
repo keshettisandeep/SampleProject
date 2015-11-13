@@ -5,7 +5,7 @@ import weblogic.security.internal.encryption.EncryptionService;
 
 public class GemsUtil {
 	/**
-	 * Decrypt text in AES encrypted format using testing git hub
+	 * Decrypt text in AES encrypted format using testing git hub for merge conflicts
 
 	 */
 	
