@@ -9,7 +9,7 @@ public class GemsUtil {
 
 	 */
 	
-fuck you bitch	/**
+fuck you 	/**
 	 * @param encryptedString
 	 * @return decryptedString
 	 */
